@@ -1,8 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-SAI NARESH-red)](https://www.youtube.com/channel/UCr1WY6o7R7-y8UH9Qk8SxrQ)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sainareshdoddapaneni-a6aba3161/)](https://www.linkedin.com/in/sainareshdoddapaneni-a6aba3161/)
-
 
 I'm
 Full Stack Solution Developer
